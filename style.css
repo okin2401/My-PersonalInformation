@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgba(152, 218, 230, 0.616);
+}
+
+body {
+  min-height: 3000px;
+}
+
+#projects {
+  background-color: rgba(152, 218, 230, 0.616);
+}
+
+footer {
+  background-color: rgba(21, 156, 138, 0.767);
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
